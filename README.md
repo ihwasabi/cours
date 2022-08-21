@@ -7,16 +7,15 @@ Dans ce memo tu verras les bases des balises du langage de programmation "HTML5"
 
 ## Sommaire
 
-- [`Les Balises`](#Les Balises)
-  - [`Baliser le texte`](#Baliser le texte)
-    - [`Les titres`](#Les titres)
-    - [`Les paragraphes`](#Les paragraphes)
-    - [`Les listes`](#Les listes)
-    - [`Les liens`](#Les liens)
-  - [`Balise d'Images`](#Balise d'Images)
-
-* [Message de fin](#Message de fin)
-* [Auteur](#Auteur)
+- [`Les Balises`](#Les-Balises)
+  - [`Baliser le texte`](#Baliser-le-texte)
+    - [`Les titres`](#Les-titres)
+    - [`Les paragraphes`](#Les-paragraphes)
+    - [`Les listes`](#Les-listes)
+    - [`Les liens`](#Les-liens)
+  - [`Balise d'Images`](#Balise-d'Images)
+- [`Message de fin`](#Message-de-fin)
+- [`Auteur`](#Auteur)
 
 
 ## Les balises
