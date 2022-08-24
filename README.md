@@ -1,4 +1,3 @@
-
 # Memo HTML
 
 Dans ce memo tu verras les bases des balises du langage de programmation "HTML5"
@@ -15,6 +14,8 @@ Dans ce memo tu verras les bases des balises du langage de programmation "HTML5"
     - [`Les liens`](#Les-liens)
   - [`Balise d'Images`](#Balise-d'Images)
 - [`Message de fin`](#Message-de-fin)
+  - [`Quelques infos utiles`](#Quelques-infos-utiles)
+
 - [`Auteur`](#Auteur)
 
 
@@ -124,6 +125,13 @@ Exemple :
 Voila, c'est la fin de ce petit memo, entraine toi déja avec ça, je te montrerais les styles plus tard. Montre moi ce que tu as fais quand tu finis.
 
 Si tu veux en savoir plus sur les bases du html tu peux te rendre [ici](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/HTML_basics) ou me demander directement.
+
+
+
+### Quelques infos utiles
+
+* [Pour coder en ligne (sur un pc)](https://codesandbox.io/)
+* Pour commencer un site HTML il faut créer une sandbox `Static`
 
 
 
