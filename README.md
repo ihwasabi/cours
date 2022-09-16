@@ -137,4 +137,4 @@ Si tu veux en savoir plus sur les bases du html tu peux te rendre [ici](https://
 
 ## Auteur
 
-- Ton petit amis [@spiie](https://www.github.com/spiie) ! ❤️🐝
+- [@spiie](https://www.github.com/spiie) !
